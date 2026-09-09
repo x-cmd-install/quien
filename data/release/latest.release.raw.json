@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4589665,
       "digest": "sha256:f8bac6c1047af69dfbbc2b980534ffdab07efd0f4f19829e4a2d26778356b314",
-      "download_count": 300,
+      "download_count": 302,
       "created_at": "2026-06-23T23:03:58Z",
       "updated_at": "2026-06-23T23:03:59Z",
       "browser_download_url": "https://github.com/retlehs/quien/releases/download/v0.12.0/quien_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4855196,
       "digest": "sha256:2aae42e8610374ee57e47939be65bf7e16f146145a402708e7f1b5db268fed83",
-      "download_count": 249,
+      "download_count": 250,
       "created_at": "2026-06-23T23:03:57Z",
       "updated_at": "2026-06-23T23:03:58Z",
       "browser_download_url": "https://github.com/retlehs/quien/releases/download/v0.12.0/quien_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5006477,
       "digest": "sha256:8697585fdd1c8e59b82787311ed202749fde7f5253752c417a76be0299ac07ce",
-      "download_count": 99,
+      "download_count": 100,
       "created_at": "2026-06-23T23:03:57Z",
       "updated_at": "2026-06-23T23:03:58Z",
       "browser_download_url": "https://github.com/retlehs/quien/releases/download/v0.12.0/quien_windows_amd64.zip"
