@@ -46,12 +46,12 @@ Total: **10,171** lines of code across **74** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-15 | 1 | 3 | 2 | 1 | 5 | 8 |
-| last180d | 2026-03-17 | 21 | 40 | 3 | 15 | 7 | 68 |
-| 360d | 2025-09-18 | 21 | 40 | 3 | 15 | 7 | 68 |
-| last720d | 2024-09-23 | 21 | 40 | 3 | 15 | 7 | 69 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-16 | 1 | 2 | 2 | 1 | 5 | 8 |
+| last180d | 2026-03-18 | 21 | 40 | 3 | 15 | 7 | 68 |
+| 360d | 2025-09-19 | 21 | 40 | 3 | 15 | 7 | 68 |
+| last720d | 2024-09-24 | 21 | 40 | 3 | 15 | 7 | 69 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **10,171** lines of code across **74** files in the top 5 languages.
 | [quien_windows_amd64.zip](https://github.com/retlehs/quien/releases/download/v0.12.0/quien_windows_amd64.zip) | 4.8 MiB | `native/win/x64` |
 | [quien_windows_arm64.zip](https://github.com/retlehs/quien/releases/download/v0.12.0/quien_windows_arm64.zip) | 4.3 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/quien). **5** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.12.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for quien lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `quien` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for quien lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:00:44Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:05:45Z._
