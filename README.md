@@ -4,7 +4,7 @@
 
 A better whois and domain intelligence toolkit
 
-![quien](https://repo.x-cmd.io/quien.svg)
+[![x-cmd/install — quien Code Quality Monitoring Repo Card](https://repo.x-cmd.io/quien.svg)](https://x-cmd.com/install/quien)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **10,171** lines of code across **74** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,267 · **Forks**: 32 · **Open issues**: 22 · **Contributors**: 10
+- **Stars**: 1,268 · **Forks**: 32 · **Open issues**: 22 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **10,171** lines of code across **74** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 1 | 2 | 2 | 0 | 5 | 8 |
-| last180d | 2026-03-22 | 21 | 40 | 3 | 15 | 7 | 68 |
-| 360d | 2025-09-23 | 21 | 40 | 3 | 15 | 7 | 68 |
-| last720d | 2024-09-28 | 21 | 40 | 3 | 15 | 7 | 69 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 1 | 2 | 2 | 0 | 5 | 0 |
+| last180d | 2026-03-24 | 21 | 40 | 3 | 15 | 7 | 68 |
+| 360d | 2025-09-25 | 21 | 40 | 3 | 15 | 7 | 68 |
+| last720d | 2024-09-30 | 21 | 40 | 3 | 15 | 7 | 69 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for quien lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:04:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:04:17Z._
