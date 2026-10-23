@@ -1,0 +1,68 @@
+- repo: aur
+  srcname: quien
+  binname: quien
+  visiblename: quien
+  version: 0.12.0
+  origversion: 0.12.0-1
+  status: newest
+  summary: A better whois and domain intelligence toolkit
+  maintainers:
+    - barbuk@aur
+    - retlehs@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: quien-bin
+  binname: quien-bin
+  visiblename: quien-bin
+  version: 0.12.0
+  origversion: 0.12.0-1
+  status: newest
+  summary: A better whois and domain intelligence toolkit (pre-built binary)
+  maintainers:
+    - barbuk@aur
+    - retlehs@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: quien-git
+  binname: quien-git
+  visiblename: quien-git
+  version: 0.9.0.r1.g6bd4f22
+  origversion: 0.9.0.r1.g6bd4f22-1
+  status: rolling
+  summary: A better whois and domain intelligence toolkit
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: quien
+  visiblename: quien
+  version: 0.12.0
+  origversion: null
+  status: newest
+  summary: Better WHOIS and domain intelligence toolkit
+- repo: macports
+  srcname: net/quien
+  binname: quien
+  visiblename: quien
+  version: 0.12.0
+  origversion: null
+  status: newest
+  summary: A better WHOIS lookup tool
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - net
+- repo: scoop
+  subrepo: main
+  binname: quien
+  visiblename: quien
+  version: 0.12.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
