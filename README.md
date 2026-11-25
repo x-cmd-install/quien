@@ -20,7 +20,7 @@ Total: **10,190** lines of code across **74** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Go | 10,152 | 553 | 1,351 | 69 |
 | Nix | 38 | 0 | 3 | 1 |
-| Markdown | 0 | 194 | 76 | 4 |
+| Markdown | 0 | 205 | 85 | 4 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **10,190** lines of code across **74** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.0` (2026-06-23)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-11-24
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,313 · **Forks**: 35 · **Open issues**: 24 · **Contributors**: 10
+- **Stars**: 1,313 · **Forks**: 35 · **Open issues**: 24 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 42 · **Open PRs**: 7 · **Closed issues**: 15 · **Open issues**: 9 · **Commits**: 71
+- **Releases**: 21 · **Merged PRs**: 43 · **Open PRs**: 6 · **Closed issues**: 16 · **Open issues**: 8 · **Commits**: 72
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 2 | 5 | 0 | 2 | 2 |
-| 90d | 2026-08-26 | 0 | 2 | 5 | 0 | 2 | 2 |
-| last180d | 2026-05-28 | 2 | 16 | 7 | 3 | 8 | 18 |
-| 360d | 2025-11-29 | 21 | 42 | 7 | 15 | 9 | 70 |
-| last720d | 2024-12-04 | 21 | 42 | 7 | 15 | 9 | 71 |
+| 30d | 2026-10-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-26 | 0 | 3 | 4 | 1 | 1 | 3 |
+| 90d | 2026-08-27 | 0 | 3 | 4 | 1 | 1 | 3 |
+| last180d | 2026-05-29 | 2 | 17 | 6 | 4 | 7 | 19 |
+| 360d | 2025-11-30 | 21 | 43 | 6 | 16 | 8 | 71 |
+| last720d | 2024-12-05 | 21 | 43 | 6 | 16 | 8 | 72 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **10,190** lines of code across **74** files in the top 5 languages.
 | [quien_windows_amd64.zip](https://github.com/retlehs/quien/releases/download/v0.12.0/quien_windows_amd64.zip) | 4.8 MiB | `native/win/x64` |
 | [quien_windows_arm64.zip](https://github.com/retlehs/quien/releases/download/v0.12.0/quien_windows_arm64.zip) | 4.3 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/quien). **5** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.12.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for quien lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `quien` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for quien lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:41:52Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:33:20Z._
