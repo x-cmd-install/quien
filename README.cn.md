@@ -46,12 +46,12 @@ x install quien
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-28 | 0 | 3 | 4 | 1 | 1 | 3 |
-| 90d | 2026-08-29 | 0 | 3 | 4 | 1 | 1 | 3 |
-| last180d | 2026-05-31 | 2 | 16 | 6 | 4 | 7 | 19 |
-| 360d | 2025-12-02 | 21 | 43 | 6 | 16 | 8 | 71 |
-| last720d | 2024-12-07 | 21 | 43 | 6 | 16 | 8 | 72 |
+| 30d | 2026-10-29 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-29 | 0 | 3 | 4 | 1 | 1 | 3 |
+| 90d | 2026-08-30 | 0 | 3 | 4 | 1 | 1 | 3 |
+| last180d | 2026-06-01 | 2 | 15 | 6 | 3 | 6 | 19 |
+| 360d | 2025-12-03 | 21 | 43 | 6 | 16 | 8 | 71 |
+| last720d | 2024-12-08 | 21 | 43 | 6 | 16 | 8 | 72 |
 
 ## Release 资产
 
@@ -67,6 +67,14 @@ x install quien
 | [quien_windows_amd64.zip](https://github.com/retlehs/quien/releases/download/v0.12.0/quien_windows_amd64.zip) | 4.8 MiB | `native/win/x64` |
 | [quien_windows_arm64.zip](https://github.com/retlehs/quien/releases/download/v0.12.0/quien_windows_arm64.zip) | 4.3 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/quien) 上共有 **6** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.12.0` | ✅ latest |
+
 ## 改进这些数据
 
 quien 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `quien` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -76,4 +84,4 @@ quien 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:16:23Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T09:20:58Z._
